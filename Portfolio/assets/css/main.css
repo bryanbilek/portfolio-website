@@ -8601,3 +8601,20 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+
+
+/*Beginning CSS for projects.html page in portfolio*/
+body {
+	text-align: center;
+}
+
+.projects-h1 {
+	color: red;
+	font-size: 10rem;
+}
+
+.project-titles {
+	color: orange;
+	font-size: 5rem;
+}
